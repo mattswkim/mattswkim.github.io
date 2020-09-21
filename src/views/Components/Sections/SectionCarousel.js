@@ -16,6 +16,7 @@ import image1 from "assets/img/login.png";
 import image2 from "assets/img/search.png";
 import image3 from "assets/img/result.png";
 
+
 import styles from "assets/jss/material-kit-react/views/componentsSections/carouselStyle.js";
 
 const useStyles = makeStyles(styles);

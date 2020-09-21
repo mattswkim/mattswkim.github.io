@@ -1,11 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "material-kit-react",
   "version": "1.9.0",
-  "description": "Sunwoong Kim Portfolio",
+  "description": "Sunwoong Kim portfolio",
   "private": true,
-  "engines": {
-    "node": "12.16.1"
-  },
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.10.0",
@@ -41,7 +38,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build  && gulp licenses",
+    "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "lint:check": "eslint . --ext=js,jsx;  exit 0",
