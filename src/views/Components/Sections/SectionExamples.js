@@ -21,8 +21,8 @@ export default function SectionExamples() {
   return (
     <div className={classes.section}>
       <div className={classes.container}>
-        <GridContainer justify="center">
-        <GridItem xs={12} sm={12} md={6}>
+        <GridContainer>
+        <GridItem xs={12} sm={12} md={6} className={classes.marginAuto}>
         <br />
           <h5>
             This app is a <strong>public</strong> todo list. Anyone can add or delete items on the list.

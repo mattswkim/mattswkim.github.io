@@ -35,9 +35,7 @@ export default function SectionDownload() {
             <Button
               color="info"
               size="lg"
-              href="views/Components/Sections/resume.pdf"
-              download
-              target="_blank"
+              href="https://github.com/mattswkim/mattswkim.github.io/raw/master/src/assets/file/resume.pdf"
             >
               Download Rèsumè
             </Button>

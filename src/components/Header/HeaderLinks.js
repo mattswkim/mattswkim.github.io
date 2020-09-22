@@ -89,7 +89,7 @@ export default function HeaderLinks(props) {
               color="transparent"
               className={classes.navLink}
           >
-            <a href="/src/assets/img/" download="Résumé">
+            <a href="https://github.com/mattswkim/mattswkim.github.io/raw/master/src/assets/file/resume.pdf" download="Résumé">
               <img
                 src={profileImage}
                 className={classes.img}
