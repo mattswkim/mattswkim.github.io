@@ -13,6 +13,11 @@ const exampleStyle = {
   ...imagesStyle,
   link: {
     textDecoration: "none"
+  },
+  container,
+  marginAuto: {
+    marginLeft: "auto !important",
+    marginRight: "auto !important"
   }
 };
 
