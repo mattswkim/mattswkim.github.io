@@ -32,7 +32,7 @@ export default function SectionCompletedExamples() {
           </GridItem>
           <SectionBasics />
         </GridContainer>
-        <br /><br /><br id="portfolio" />
+        <br /><br /><br />
       </div>
     </div>
     
