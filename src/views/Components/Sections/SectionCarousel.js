@@ -32,7 +32,7 @@ export default function SectionCarousel() {
     autoplay: false
   };
   return (
-    <div className={classes.section}>
+    <div  className={classes.section}>
       <div className={classes.container}>
       <h2 justify="center">Portfolio</h2>
         <GridContainer>

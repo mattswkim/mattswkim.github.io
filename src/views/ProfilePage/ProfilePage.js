@@ -87,7 +87,7 @@ export default function ProfilePage(props) {
               I love challenging tasks   {" "}
               </p>
             </div>
-            <SectionCompletedExamples id="portfolio" />
+            <SectionCompletedExamples />
             <SectionCarousel />
             <SectionExamples />
             <SectionDownload />
