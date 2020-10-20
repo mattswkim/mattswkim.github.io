@@ -53,11 +53,14 @@ export default function SectionBasics() {
               <Button className={classes.customLink} color="danger" size="sm" round>SQL</Button>
               <Button className={classes.customLink} color="danger" size="sm" round>MongoDB</Button>
               <Button className={classes.customLink} color="success" size="sm" round>EJS</Button>
+              <Button className={classes.customLink} color="primary" size="sm" round>PHP</Button>
+              <Button className={classes.customLink} color="success" size="sm" round>Django</Button>
               <Button className={classes.customLink} color="rose" size="sm" round>Git</Button>
               <Button className={classes.customLink} color="primary" size="sm" round>C</Button>
               <Button className={classes.customLink} color="warning" size="sm" round>json</Button>
               <Button className={classes.customLink} color="success" size="sm" round>jquery</Button>
               <Button className={classes.customLink} color="success" size="sm" round>jinja</Button>
+              <Button className={classes.customLink} color="primary" size="sm" round>Java</Button>
               <Button className={classes.customLink} color="warning" size="sm" round>HTML5</Button>
               <Button className={classes.customLink} color="warning" size="sm" round>CSS</Button>
               <Button className={classes.customLink} color="info" size="sm" round>Bootstrap</Button>
