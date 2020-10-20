@@ -83,7 +83,7 @@ export default function ProfilePage(props) {
             </GridContainer>
             <div className={classes.description}>
               <p>
-              As a <strong>Full Stack Web Developer</strong>, I’ve made various <strong>APIs</strong>, <strong>responsive websites</strong> and full stack <strong>web applications</strong>. 
+              As a <strong>Full Stack Web Developer</strong>, I’ve built various <strong>APIs</strong>, <strong>responsive websites</strong> and full stack <strong>web applications</strong>. 
               I love challenging tasks   {" "}
               </p>
             </div>
